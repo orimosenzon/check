@@ -1,6 +1,5 @@
 #include <stdio.h> 
-
-// realy, this is a hotfix! 
+// in master
 int main() {
 	/* a blody comment */ 
 	printf("hi\n");
