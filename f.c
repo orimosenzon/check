@@ -1,5 +1,5 @@
 #include <stdio.h> 
-// in master
+// ok!
 int main() {
 	/* a blody comment */ 
 	printf("hi\n");
