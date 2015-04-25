@@ -2,6 +2,7 @@
 
 // realy, this is a hotfix! 
 int main() {
+	/* a blody comment */ 
 	printf("hi\n");
 	int i; 
 	for(i=0; i<10; ++i)
