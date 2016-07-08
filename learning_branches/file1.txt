@@ -1,8 +1,1 @@
-this file is a result of a merge of testing into master
-this came from master 
-ok, this change is done only on the master branch 
-*hot fix*
-
-and this came from testing
-this change was made only in the *testing* branch 
-1,2,3,.... 
+when added
